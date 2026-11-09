@@ -1,6 +1,6 @@
 # My Location
 
-Exercício de Persistência de dados e permissões da disciplina de Soluções Mobile (UniSATC), feito a partir do projeto base [myLocationBase](https://github.com/MariMelo1/myLocationBase-master).
+Exercício de Persistência de dados e permissões da disciplina de Soluções Mobile (UniSATC).
 
 App em React Native com Expo que captura a localização atual do usuário e salva no banco de dados local.
 
